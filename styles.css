@@ -1,0 +1,109 @@
+body {
+    background-color: black;
+    margin: 0;
+  }
+  .PostDIV {
+    background-color: white;
+    width: 550px;
+    height: auto;
+    margin: auto;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    border: 1px;
+    border-radius: 5px;
+    border-color: grey;
+  }
+  section {
+    padding-top: 45px;
+    background: black;
+  }
+  #html {
+    margin: auto;
+    font-size: 40px;
+    margin-right: 10px;
+    margin-left: 8px;
+  }
+  .post-header {
+    padding: 5px;
+    display: inline-flex;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 550px;
+  }
+  .fa-brands fa-html5 {
+    margin-top: 20px;
+  }
+  
+  .post-header h5 {
+    font-weight: normal;
+  }
+  .date {
+    margin: auto;
+    float: right;
+  }
+  
+  .post-img img {
+    width: 100%;
+  }
+  
+  .post-body {
+    background-color: white;
+    margin-bottom: 15px;
+  }
+  .fa-brands,
+  .fab {
+    font-size: 35px;
+    margin: auto;
+    margin-left: 10px;
+    margin-top: 20px;
+  }
+  p {
+    margin-top: 0;
+  }
+  h4 {
+    margin-bottom: 0;
+  }
+  .PostLicons,
+  .fa-brands {
+    font-size: 28px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+  }
+  .bellowthepic {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  
+  #save {
+    float: right;
+    margin-right: 10px;
+  }
+  
+  #dots {
+    margin-inline-end: 19px;
+    font-size: 40px;
+  }
+  
+  .icon-group {
+    display: flex;
+    align-items: center;
+  }
+  
+  #html {
+    font-size: 40px;
+    margin-right: 10px;
+    margin-left: 8px;
+  }
+  
+  .div {
+    margin: 0;
+  }
+  
+  .post-header {
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 550px;
+  }
+  
